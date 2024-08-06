@@ -23,3 +23,4 @@ I'm gonna ask myself, including you asking me. So, who am I? I even don't know w
 - Web Development
 - Embedded System Engineering
 - 3D Modelling
+- 2D arts and Graphics Design
