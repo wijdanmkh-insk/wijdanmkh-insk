@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ABOUT ME
+I'm gonna ask myself, including you asking me. So, who am I? I even don't know who I'm really are, since I have to breaking my previous life path. I'm an electrical engineering students who interested in medical equipment engineering and bioengineering, especially in biomaterial engineering. I know that I'm not new here, but since I'm breaking the path of my life that I have been dreaming that for such a long time, make me have to put an extra effort to keep it on track. 
+
+# INTERESTS
+- Mechatronics
+- Biomedical Device Research
+- Web Development
+- Embedded System Engineering
+- 3D Modelling
