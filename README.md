@@ -15,12 +15,4 @@ Here are some ideas to get you started:
 -->
 
 # ABOUT ME
-I'm gonna ask myself, including you asking me. So, who am I? I even don't know who I'm really are, since I have to breaking my previous life path. I'm an electrical engineering student who interested in biomedical engineering and bioengineering, especially in cells/tissue engineering. I know that I'm not new here in programming and I thought I'm never gonna touch it in the future, since my future path isn't correlated to technology. Since I'm breaking the path of my life that I have been dreaming that for such a long time, make me have to put an extra effort to keep it on track. 
-
-# INTERESTS
-- Mechatronics
-- Biomedical Device Research
-- Web Development
-- Embedded System Engineering
-- 3D Modelling
-- 2D arts and Graphics Design
+I don't really know who I am really
